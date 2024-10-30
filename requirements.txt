@@ -1,1 +1,7 @@
-streamlit
+folium==0.18.0
+pandas==2.2.3
+plotly==5.15.0
+streamlit==1.35.0
+streamlit_folium==0.20.0
+
+#pip install -r requirements.txt
